@@ -7,8 +7,8 @@ In multi-label classification, many existing works only pay attention to the lab
 
 
 # Contact
-Peipei Li (peipeili@hfut.edu.cn): Hefei University of Technology//
-Junlong Li (ljl@mail.hfut.edu.cn): Hefei University of Technology//
-Xuegang Hu (jsjxhuxg@hfut.edu.cn): Hefei University of Technology//
-Kui Yu (yukui@hfut.edu.cn): Hefei University of Technology//
+Peipei Li (peipeili@hfut.edu.cn): Hefei University of Technology.
+Junlong Li (ljl@mail.hfut.edu.cn): Hefei University of Technology.
+Xuegang Hu (jsjxhuxg@hfut.edu.cn): Hefei University of Technology.
+Kui Yu (yukui@hfut.edu.cn): Hefei University of Technology.
 
